@@ -1,3 +1,7 @@
+# Added by me
+.idea
+build
+
 # Prerequisites
 *.d
 
